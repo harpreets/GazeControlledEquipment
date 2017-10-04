@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GazeControlledEquipment.CSharp.Plugins", "GazeControlledEquipment.CSharp.Plugins.csproj", "{07FEF49F-FE20-916D-6D03-9F459294CE69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GazeControlledEquipment.CSharp", "GazeControlledEquipment.CSharp.csproj", "{E0AA4EF9-3399-8CFB-5E4A-4E06D0990BCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GazeControlledEquipment.CSharp.Editor.Plugins", "GazeControlledEquipment.CSharp.Editor.Plugins.csproj", "{DB9C77D6-7862-4BDF-4C1E-328E48EBAD83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07FEF49F-FE20-916D-6D03-9F459294CE69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07FEF49F-FE20-916D-6D03-9F459294CE69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07FEF49F-FE20-916D-6D03-9F459294CE69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07FEF49F-FE20-916D-6D03-9F459294CE69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0AA4EF9-3399-8CFB-5E4A-4E06D0990BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0AA4EF9-3399-8CFB-5E4A-4E06D0990BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0AA4EF9-3399-8CFB-5E4A-4E06D0990BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0AA4EF9-3399-8CFB-5E4A-4E06D0990BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB9C77D6-7862-4BDF-4C1E-328E48EBAD83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB9C77D6-7862-4BDF-4C1E-328E48EBAD83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB9C77D6-7862-4BDF-4C1E-328E48EBAD83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB9C77D6-7862-4BDF-4C1E-328E48EBAD83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
